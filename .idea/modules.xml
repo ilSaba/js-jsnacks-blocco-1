@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/js-jsnacks-blocco-1.iml" filepath="$PROJECT_DIR$/.idea/js-jsnacks-blocco-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../js-mail-dadi/.idea/js-mail-dadi.iml" filepath="$PROJECT_DIR$/../js-mail-dadi/.idea/js-mail-dadi.iml" />
     </modules>
   </component>
 </project>
